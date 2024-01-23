@@ -2,13 +2,13 @@
 
 **enjoy of my new Sass project**
 
-![WeatherApp](https://github.com/ziba-irani/weatherApp/assets/125620113/81f26e7a-0635-4ded-811b-904f803e38f0)
+![sass](https://github.com/ziba-irani/SassProject-2-/assets/125620113/e55e0016-99b0-4414-9c0b-514f0c15d651)
 
 - [Demo Project](https://ziba-irani.github.io/SassProject-2-/)
 
 - Developed by ziba irani
 
-- Technologies Used - Html , css , Js , Api
+- Technologies Used - Html , css , Sass
 
 - Role - Frontend
 
