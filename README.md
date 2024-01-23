@@ -4,7 +4,7 @@
 
 ![WeatherApp](https://github.com/ziba-irani/weatherApp/assets/125620113/81f26e7a-0635-4ded-811b-904f803e38f0)
 
-- [Demo Project](https://ziba-irani.github.io/weatherApp/)
+- [Demo Project](https://ziba-irani.github.io/SassProject-2-/)
 
 - Developed by ziba irani
 
