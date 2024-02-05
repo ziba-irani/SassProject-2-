@@ -4,7 +4,7 @@
 
 ![sass](https://github.com/ziba-irani/SassProject-2-/assets/125620113/e55e0016-99b0-4414-9c0b-514f0c15d651)
 
-- [Demo Project](https://ziba-irani.github.io/SassProject-2-/)
+- [Demo Project](https://ziba-irani.github.io/SassProject3/)
 
 - Developed by ziba irani
 
